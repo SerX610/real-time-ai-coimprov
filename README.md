@@ -26,6 +26,8 @@ This repository contains the code and demonstrations for the real-time AI-driven
 
 - [Usage](#usage)
 
+- [Demo](#demo)
+
 - [Future Work](#future-work)
 
 
@@ -205,6 +207,11 @@ The system will:
 - Start the real-time interaction loop.
 
 You can now interact with the system using your MIDI controller. The system will process your input, generate sequences, and play them back in real-time.
+
+
+## Demo
+
+You can watch a video demo of the system in the following [YouTube video](https://www.youtube.com/watch?v=XASF-8pfBxU)
 
 
 ## Future Work
